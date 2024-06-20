@@ -1,6 +1,6 @@
-# Mistral PDF AI
+# PDF Answering AI
 
-The Mistral PDF AI chatbot intelligently interacts with PDF documents, offering features like summarization, content location, simplification, and question answering. It’s built using Streamlit and can be accessed directly on Colab.
+The PDF Answering AI chatbot intelligently interacts with PDF documents, offering features like summarization, content location, simplification, and question answering. It’s built using Streamlit and can be accessed directly on Colab.
 
 ## Features 
 **Summarization**:  Obtain brief summaries of essential content from uploaded PDFs.
